@@ -3,3 +3,9 @@
   height: 100px;
   background-color: green;
 }
+
+.Dashboard {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
